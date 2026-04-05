@@ -19,5 +19,4 @@ public class product{
         else{
         System.out.println("lowest price is "+p1.pname +"with price"+p1.price);     }  
     } 
-    
 }
