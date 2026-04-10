@@ -29,7 +29,4 @@ The programs are organized into folders corresponding to specific lab cycles or 
 * **JDK (Java Development Kit) 11 or higher**
 * A text editor (VS Code, Sublime Text) or an IDE (IntelliJ IDEA, Eclipse).
 
-### Installation & Execution
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/muhammadnajiac04/java.git](https://github.com/muhammadnajiac04/java.git)
+
